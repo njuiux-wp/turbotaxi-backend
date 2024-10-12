@@ -62,5 +62,17 @@
     "from": "Jamnagar",
     "to": "Rajkot",
     "type": "one-way"
+  },
+  {
+    "uname": "Krimi Shah",
+    "uphone": "8786211211",
+    "uemail": "krimi@gmail.com",
+    "departureDate": "2024-10-22T18:30:00.000Z",
+    "departureTime": "10:00",
+    "returnDate": "2024-10-23T18:30:00.000Z",
+    "returnTime": "10:00",
+    "from": "Ahmedabad",
+    "to": "Anand",
+    "type": "round-trip"
   }
 ]
