@@ -1,0 +1,66 @@
+[
+  {
+    "uname": "niraj",
+    "uphone": "8691639123",
+    "uemail": "niraj@gmail.com",
+    "date": "2024-10-18",
+    "time": "20:53",
+    "from": "Jamnagar",
+    "to": "Surat",
+    "type": "one-way"
+  },
+  {
+    "uname": "niraj1",
+    "uphone": "98091898911",
+    "uemail": "niraj@gmail.com",
+    "date": "2024-10-17",
+    "time": "14:26",
+    "from": "Jamnagar",
+    "to": "Rajkot",
+    "type": "round-trip"
+  },
+  {
+    "uname": "Niraj Trivedi",
+    "uphone": "08460175206",
+    "uemail": "njtrivedi.911@gmail.com",
+    "date": "2024-10-31",
+    "time": "04:27",
+    "from": "Rrrrr",
+    "to": "Aaaa",
+    "type": "round-trip"
+  },
+  {
+    "uname": "Raj Trivedi ",
+    "uphone": "8460084840",
+    "uemail": "rajtrivedi1212@gmail.com",
+    "date": "2024-10-13",
+    "time": "18:34",
+    "from": "Ahmedabad ",
+    "to": "Mumbai ",
+    "type": "round-trip"
+  },
+  {
+    "uname": "nikita bhatt",
+    "uphone": "8691639123",
+    "uemail": "niraj@gmail.com",
+    "departureDate": "2024-11-09",
+    "departureTime": "09:09",
+    "returnDate": "2024-10-10",
+    "returnTime": "09:08",
+    "from": "Jamnagar",
+    "to": "Surat",
+    "type": "round-trip"
+  },
+  {
+    "uname": "rajat",
+    "uphone": "8691639123",
+    "uemail": "rajat@gmail.com",
+    "departureDate": "2024-10-22T18:30:00.000Z",
+    "departureTime": "10:00",
+    "returnDate": null,
+    "returnTime": "10:00",
+    "from": "Jamnagar",
+    "to": "Rajkot",
+    "type": "one-way"
+  }
+]
