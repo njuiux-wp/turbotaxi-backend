@@ -4,13 +4,15 @@ const cors = require('cors');
 const bodyParser = require('body-parser');
 const bookingRoutes = require('./routes/bookingRoutes');
 
+const app = express();
+
 app.use(cors({
   origin: 'https://njuiux-wp.github.io',
   methods: ['GET', 'POST', 'PUT', 'DELETE', 'OPTIONS'],
   allowedHeaders: ['Content-Type', 'Authorization']
 }));
 // app.use(cors());
-const app = express();
+
 app.use(bodyParser.json());
 
 app.use('/api', bookingRoutes);
